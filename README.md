@@ -2,9 +2,9 @@
 
 **Turn a week-long iOS migration into short, resumable, independently verifiable work packets for a coding agent.**
 
-Article: (added after publish)
+Article: [Coding Agents Ace the File and Fail the Week. Splitting the Week Is a Lead's Job.](https://medium.com/@er.rajatlakhina/coding-agents-ace-the-file-and-fail-the-week-splitting-the-week-is-a-leads-job-3ea81700b42f) (Medium)
 
-Android Bench 2.0 moved Google's mobile coding benchmark from pass/fail bug fixes to tasks that take an engineer days or a week, and the best score dropped to about 28%. This repo is the lead-side answer I argue for in the article: don't wait for a model that can hold a week in its head. Decompose the week.
+Android Bench 2.0 added long-horizon tasks, the kind that take an engineer days or a week, to Google's mobile coding benchmark. The best score on them is about 28%, against about 91% on the original tasks. This repo is the lead-side answer I argue for in the article: don't wait for a model that can hold a week in its head. Decompose the week.
 
 `WorkPackets` is a small Swift library plus a SwiftUI demo app:
 
